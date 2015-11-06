@@ -1,0 +1,2 @@
+rootProject.name = 'retail-price-calculator'
+include 'utilities'
